@@ -14,6 +14,7 @@ Others:
 - [Terry Tao's blog](https://terrytao.wordpress.com/tag/lean4/).
 - [A HOL4 user on Weibo](https://m.weibo.cn/detail/4993345730646633).
 - [Slides that provide a good general picture](https://www.ieice.org/ess/sita/forum/article/2024/202401191114.pdf).
+- [Links from the official](https://lean-lang.org/links/).
 
 ## Interesting things to do?
 
