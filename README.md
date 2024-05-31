@@ -11,7 +11,7 @@ Tutorials:
 - [Functional programming](https://lean-lang.org/functional_programming_in_lean/title.html).
 
 Others:
-- [Terry Tao's blog](https://terrytao.wordpress.com/tag/lean4/).
+- [Terry Tao's blog](https://terrytao.wordpress.com/tag/lean4/). And [his talk](https://youtu.be/AayZuuDDKP0?si=bVTQmvvj6vznjr0q).
 - [A HOL4 user on Weibo](https://m.weibo.cn/detail/4993345730646633).
 - [Slides that provide a good general picture](https://www.ieice.org/ess/sita/forum/article/2024/202401191114.pdf).
 - [Links from the official](https://lean-lang.org/links/).
